@@ -1,3 +1,15 @@
+## Set up notes
+
+installed ethers 5.7.2 to manage wagmi dependencies
+
+environment
+
+- wallet connect - new project id
+- nextjs
+- react developer docs
+
+https://docs.walletconnect.com/2.0/web3modal/react/installation
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
